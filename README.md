@@ -22,12 +22,11 @@
 2. Install the necessary libraries: Run the following command in the project directory to install the required Python libraries:
    ```bash
    pip install -r requirements.txt
-
-3.  Create a .env file: In the project directory, create a .env file with the following content (replace with your actual user-agent string):
-
+3. Create a .env file:In the project directory, create a .env file with the following content (replace with your actual user-agent string):
    ```bash
-    USER_AGENT=your_user_agent_string_here
-
+   USER_AGENT=your_user_agent_string_here
 4. Run the project:
    ```bash
-    python main.py
+   python main.py
+
+
